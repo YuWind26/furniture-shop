@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:furniture_shop/pages/home_screen.dart';
+
+import 'pages/_pages.dart';
 
 void main() {
   runApp(const MyApp());
